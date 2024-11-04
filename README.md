@@ -1,6 +1,6 @@
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hello World!  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> I am a passionate software developer  </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> I am TaeHo Kim, a Computer Science student focusing on Information Internetworks & Intelligence. I love building impactful solutions to connect systems and analyze data to make smart insights. Passionate about making the world a better place, looking to leverage technology and entrepreneurship to change the world and learn constantly.
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
