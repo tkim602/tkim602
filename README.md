@@ -1,6 +1,6 @@
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hello World!  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> I am TaeHo Kim, a Computer Science student focusing on Information Internetworks & Intelligence. I love building impactful solutions to connect systems and analyze data to make smart insights. Passionate about making the world a better place, looking to leverage technology and entrepreneurship to change the world and learn constantly.
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> Hello world! I am a CS student focused on Information Internetworks & Intelligence. I build data-driven and AI-powered solutions that connect systems, uncover insights, and solve real-world problems. From chatbots to time series forecasting and multimodal models, I'm passionate about using tech and entrepreneurship to make a lasting impact. Always learning, always building.
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
