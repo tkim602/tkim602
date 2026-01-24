@@ -3,7 +3,7 @@
     <div style="font-weight: 700; font-size: 18px; text-align: center; color: #c9d1d9;"> Hello! I am a CS student @ Georgia Tech (AI & Information Internetworks).
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Programming Languages </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
@@ -18,7 +18,7 @@
           </div>
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Contact </h2> <br> 
     <div align= "center"> <a href=https://www.facebook.com/profile.php?id=100008089565610> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100008089565610"> </a>
          <a href=https://www.instagram.com/thkim01/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/thkim01/"> </a>
         <a href="mailto:thkim210414@gmail.com">
@@ -31,7 +31,7 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=tkim602&count_private=true&show_icons=true&title_color=4CAF50&text_color=E0E0E0&icon_color=FF9800&bg_color=1A1A1D"
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=tkim602&count_private=true&show_icons=true&title_color=4CAF50&text_color=E0E0E0&icon_color=FF9800&bg_color=1A1A1D"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkim602&layout=compact&title_color=4CAF50&text_color=E0E0E0&icon_color=FF9800&bg_color=1A1A1D" /> 
            </div> 
     </div>
