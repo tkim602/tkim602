@@ -35,7 +35,7 @@ Building reliable AI systems, developer tools, and production-oriented ML applic
 ### Georgia Institute of Technology · Undergraduate Researcher
 **Innovation Management — Data Dashboard / Tableau Copilot**
 
-- Developing an AI **Copilot for Tableau dashboards** that enables natural-language Q&A over research administration data.
+- Developed an AI **Copilot for Tableau dashboards** that enables natural-language Q&A over research administration data.
 - Built Python pipelines to parse **Tableau TWB/XML metadata** and structure dashboard information for downstream analysis.
 - Implemented **retrieval and Q&A workflows** using embeddings and RAG to connect user questions with dashboard data and metadata.
 - Developed logic for **automatic visualization generation** and dashboard analysis from CSV/Excel and Tableau data sources.
