@@ -2,7 +2,7 @@
 
 # TaeHo Kim
 
-### AI/ML & Software Engineer · Georgia Tech CS
+### AI/ML & Software Engineer · Georgia Tech BSCS & OMSCS 
 
 Building reliable AI systems, developer tools, and production-oriented ML applications.
 
@@ -24,7 +24,7 @@ Building reliable AI systems, developer tools, and production-oriented ML applic
 
 ## Experience
 
-### Fasoo · Product Management Intern
+### Fasoo · AI Engineer Intern
 **AI-based Multilingualization Quality Improvement** · Summer 2025
 
 - Built a multi-stage **machine translation quality assessment pipeline** combining semantic similarity, COMET-based evaluation, rule-based validation, and selective LLM assessment.
