@@ -7,7 +7,7 @@
 Building reliable AI systems, developer tools, and production-oriented ML applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TaeHo%20Kim-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tkim602)
-[![Gmail](https://img.shields.io/badge/Email-thkim210414%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thkim210414@gmail.com)
+[![Email](https://img.shields.io/badge/Email-thkim210414%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thkim210414@gmail.com)
 
 </div>
 
@@ -15,20 +15,41 @@ Building reliable AI systems, developer tools, and production-oriented ML applic
 
 ## About Me
 
-- Computer Science @ **Georgia Institute of Technology**
+- Computer Science at **Georgia Institute of Technology**
 - Interested in **Machine Learning, AI Engineering, and Software Engineering**
 - Building systems around **LLMs, ML evaluation, retrieval, and developer tooling**
-- Interested in taking ML beyond experiments into **reliable, deployable products**
+- Focused on turning ML systems into **reliable, deployable products**
+
+---
+
+## Experience
+
+### Fasoo · Product Management Intern
+**AI-based Multilingualization Quality Improvement** · Summer 2025
+
+- Built a multi-stage **machine translation quality assessment pipeline** combining semantic similarity, COMET-based evaluation, rule-based validation, and selective LLM assessment.
+- Evaluated translation quality across **300K+ multilingual strings** and incorporated over **1,000 human-reviewed translation pairs** into the evaluation process.
+- Reduced human QA review workload by **87%** while improving translation quality assessment performance by approximately **67%**.
+- Received **Runner-up at Fasoo Fix Day** for the project.
+
+### Georgia Institute of Technology · Undergraduate Researcher
+**Innovation Management — Data Dashboard / Tableau Copilot**
+
+- Developing an AI **Copilot for Tableau dashboards** that enables natural-language Q&A over research administration data.
+- Built Python pipelines to parse **Tableau TWB/XML metadata** and structure dashboard information for downstream analysis.
+- Implemented **retrieval and Q&A workflows** using embeddings and RAG to connect user questions with dashboard data and metadata.
+- Developed logic for **automatic visualization generation** and dashboard analysis from CSV/Excel and Tableau data sources.
+- Worked with research administration datasets covering sponsor funding, departments, principal investigators, and funding allocations.
 
 ---
 
 ## Featured Projects
 
 ### PatchCheck
-AI-assisted pull request risk analysis and triage system built around a fine-tuned code model, deterministic static analysis, and controlled evaluation.
+AI-assisted pull request risk analysis and triage system built around a **fine-tuned code model**, deterministic static analysis, and controlled evaluation.
 
 ### BuzzBot
-Georgia Tech student assistant using controlled agentic RAG, hybrid retrieval, structured course data, and citation-grounded responses.
+Georgia Tech student assistant using **controlled agentic RAG**, hybrid retrieval, structured course data, and citation-grounded responses.
 
 ### CodeCoach
 Developer-focused tooling for improving programming and software engineering workflows.
