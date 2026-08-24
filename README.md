@@ -2,7 +2,7 @@
 
 # TaeHo Kim
 
-### AI/ML & Software Engineer · Georgia Tech BSCS & OMSCS 
+### AI/ML & Software Engineer · Georgia Tech BSCS & OMSCS
 
 Building reliable AI systems, developer tools, and production-oriented ML applications.
 
@@ -13,94 +13,58 @@ Building reliable AI systems, developer tools, and production-oriented ML applic
 
 ---
 
-## About Me
+## About
 
-- Computer Science at **Georgia Institute of Technology**
-- Interested in **Machine Learning, AI Engineering, and Software Engineering**
-- Building systems around **LLMs, ML evaluation, retrieval, and developer tooling**
-- Focused on turning ML systems into **reliable, deployable products**
+Computer Science @ **Georgia Tech**, focused on **AI/ML Engineering and Software Engineering**.
+
+I build systems around **LLMs, ML evaluation, retrieval, and developer tooling**, with an emphasis on making AI systems reliable and deployable.
 
 ---
 
 ## Experience
 
 ### Fasoo · AI Engineer Intern
-**AI-based Multilingualization Quality Improvement** · Summer 2025
+**Machine Translation Quality Assessment · 2025**
 
-- Built a multi-stage **machine translation quality assessment pipeline** combining semantic similarity, COMET-based evaluation, rule-based validation, and selective LLM assessment.
-- Evaluated translation quality across **300K+ multilingual strings** and incorporated over **1,000 human-reviewed translation pairs** into the evaluation process.
-- Reduced human QA review workload by **87%** while improving translation quality assessment performance by approximately **67%**.
-- Received **Runner-up at Fasoo Fix Day** for the project.
+- Built an ML-based QA pipeline for **300K+ multilingual strings** using semantic similarity, COMET, rule-based validation, and LLM evaluation.
+- Reduced human QA workload by **87%** while improving quality assessment performance by approximately **67%**.
+- **Runner-up, Fasoo Fix Day.**
 
-### Georgia Institute of Technology · Undergraduate Researcher
-**Innovation Management — Data Dashboard / Tableau Copilot**
+### Georgia Tech · Undergraduate Researcher
+**Tableau Copilot / Research Data Analytics**
 
-- Developed an AI **Copilot for Tableau dashboards** that enables natural-language Q&A over research administration data.
-- Built Python pipelines to parse **Tableau TWB/XML metadata** and structure dashboard information for downstream analysis.
-- Implemented **retrieval and Q&A workflows** using embeddings and RAG to connect user questions with dashboard data and metadata.
-- Developed logic for **automatic visualization generation** and dashboard analysis from CSV/Excel and Tableau data sources.
-- Worked with research administration datasets covering sponsor funding, departments, principal investigators, and funding allocations.
+- Built a natural-language **AI Copilot for Tableau dashboards** using metadata parsing, embeddings, and RAG.
+- Developed pipelines for dashboard understanding, Q&A, and automatic visualization generation.
 
 ---
 
 ## Featured Projects
 
 ### PatchCheck
-AI-assisted pull request risk analysis and triage system built around a **fine-tuned code model**, deterministic static analysis, and controlled evaluation.
+Fine-tuned code model + static analysis for **pull request risk assessment and triage**.
 
 ### BuzzBot
-Georgia Tech student assistant using **controlled agentic RAG**, hybrid retrieval, structured course data, and citation-grounded responses.
+Georgia Tech assistant built with **controlled agentic RAG, hybrid retrieval, and structured course data**.
 
 ### CodeCoach
-Developer-focused tooling for improving programming and software engineering workflows.
+Developer tooling for improving **programming and software engineering workflows**.
 
 ---
 
-## Tech Stack
+## Tech
 
-### Languages
+**Languages** · Python · C · C++ · Java · JavaScript
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-</p>
+**AI / ML** · PyTorch · TensorFlow · Hugging Face · scikit-learn · RAG · LLM Evaluation
 
-### AI / Machine Learning
+**Backend / Data** · FastAPI · PostgreSQL · Docker · Git
 
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
-</p>
-
-### Backend / Data
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-</p>
-
-### Web / App
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
-</p>
+**Web / App** · React · Node.js · Flutter
 
 ---
 
 <div align="center">
 
-### Contact
-
-[LinkedIn](https://www.linkedin.com/in/tkim602) ·
-[Email](mailto:thkim210414@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/tkim602) · [Email](mailto:thkim210414@gmail.com)
 
 </div>
