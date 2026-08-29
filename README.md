@@ -51,6 +51,17 @@ Developer tooling for improving **programming and software engineering workflows
 
 ---
 
+## Open Source Contributions
+
+Contributing bug fixes and improvements to production open-source codebases.
+
+* **CPython** — contributed a merged fix to Python's core runtime.
+* **Meta · Pyrefly** — fixed incorrect state handling for unresolved `__all__` mutations in Meta's Python type checker.
+* **OpenSRE** — implemented and contributed functionality to the open-source SRE platform.
+* **Vetlog** — contributed a merged bug fix to the project.
+
+---
+
 ## Tech
 
 **Languages** · Python · C · C++ · Java · JavaScript
