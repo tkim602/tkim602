@@ -2,7 +2,7 @@
 
 # TaeHo Kim
 
-### AI/ML & Software Engineer · Georgia Tech BSCS & OMSCS
+### AI/ML & Software Engineer · Georgia Tech BSCS
 
 Building reliable AI systems, developer tools, and production-oriented ML applications.
 
