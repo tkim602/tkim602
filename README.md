@@ -76,6 +76,6 @@ Contributing bug fixes and improvements to production open-source codebases.
 
 <div align="center">
 
-[Portfolio](taehokim.dev) · [LinkedIn](https://www.linkedin.com/in/tkim602) · [Email](mailto:thkim210414@gmail.com)
+[Portfolio](https://taehokim.dev) · [LinkedIn](https://www.linkedin.com/in/tkim602) · [Email](mailto:thkim210414@gmail.com)
 
 </div>
