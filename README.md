@@ -49,6 +49,8 @@ Georgia Tech assistant built with **controlled agentic RAG, hybrid retrieval, an
 ### CodeCoach
 Developer tooling for improving **programming and software engineering workflows**.
 
+### mora by Kitsch Labs
+
 ---
 
 ## Open Source Contributions
